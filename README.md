@@ -1,4 +1,5 @@
 
+![flamingtext_com-2098420173](https://github.com/user-attachments/assets/343ee6f5-4e42-4a38-ade4-5d68fcb65b53)
 # IPL Data Analysis and Predictive Visualizations
 
 ## Project Overview
